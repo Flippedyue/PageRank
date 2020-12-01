@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BuildServerSettings">
+    <option name="LOGIN" value="" />
+    <option name="SERVER_URL" value="http://buildserver" />
+    <option name="REMEMBER_ME" value="true" />
+    <option name="USE_IDEA_PROXY_SETTINGS" value="true" />
+    <option name="INSPECTIONS_BUILD_TYPE_IDS" />
+    <option name="DUPLICATES_BUILD_TYPE_IDS" />
+    <option name="ENABLE_SUITABLE_CONFIGURATION_CACHING" value="true" />
+    <option name="COVERAGE_SETTINGS" />
+    <option name="TEST_STATUS_ENABLED" value="true" />
+    <option name="TEST_STATUS_SHOW_SUCCESSFUL" value="false" />
+    <option name="POSTPONE_SUITABLE_CONFIGURATIONS_SEARCH" value="false" />
+    <option name="ARTIFACTS_BUILD_TYPE_IDS" />
+    <option name="PERFORM_COMMIT_IF_SUCCESSFUL" value="true" />
+    <option name="PERFORM_COMMIT_IF_NO_NEW_FAILED_TESTS" value="false" />
+    <option name="REQUEST_CONFIRMATON" value="false" />
+    <option name="PRE_TESTED_COMMIT" value="true" />
+    <option name="FILTER_BY_STATUS" value="false" />
+    <option name="FILTER_MARKED_AS_FIXED" value="false" />
+    <option name="SHOW_CLOSE_PROMPT" value="true" />
+    <option name="TOOL_WINDOW_SELECTED_CONTENT_INDEX" value="0" />
+    <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
+    <option name="showStatusBarWidget" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="PageRank" targetName="PageRank" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a405fa51-3afd-4118-8378-f3fac5935d5d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1b6cv9oGlWRGTqzAsTIInpWTtUk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="CMake Application.PageRank">
+    <configuration name="PageRank" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="PageRank" TARGET_NAME="PageRank" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="PageRank" RUN_TARGET_NAME="PageRank">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="compile (1)" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile" temporary="true">
+      <makefile filename="$PROJECT_DIR$/Makefile" target="compile" workingDirectory="" arguments="">
+        <envs />
+      </makefile>
+      <method v="2" />
+    </configuration>
+    <configuration name="compile (2)" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile" temporary="true">
+      <makefile filename="$PROJECT_DIR$/Makefile" target="compile" workingDirectory="" arguments="">
+        <envs />
+      </makefile>
+      <method v="2" />
+    </configuration>
+    <configuration name="compile" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile" temporary="true">
+      <makefile filename="$PROJECT_DIR$/Makefile" target="compile" workingDirectory="" arguments="">
+        <envs />
+      </makefile>
+      <method v="2" />
+    </configuration>
+    <configuration name="edit" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile" temporary="true">
+      <makefile filename="$PROJECT_DIR$/Makefile" target="edit" workingDirectory="" arguments="">
+        <envs />
+      </makefile>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.PageRank" />
+      <item itemvalue="Makefile.compile" />
+      <item itemvalue="Makefile.compile (1)" />
+      <item itemvalue="Makefile.compile (2)" />
+      <item itemvalue="Makefile.edit" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Makefile.edit" />
+        <item itemvalue="Makefile.compile (2)" />
+        <item itemvalue="Makefile.compile (1)" />
+        <item itemvalue="Makefile.compile" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a405fa51-3afd-4118-8378-f3fac5935d5d" name="Default Changelist" comment="" />
+      <created>1587956211340</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587956211340</updated>
+      <workItem from="1587956212842" duration="7458000" />
+      <workItem from="1588038620335" duration="9111000" />
+      <workItem from="1588052482539" duration="4201000" />
+      <workItem from="1588126230420" duration="831000" />
+      <workItem from="1588231261103" duration="3396000" />
+      <workItem from="1588328911609" duration="844000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588040917113">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1588040917113" />
+    <state x="452" y="260" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588122010080">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="452" y="260" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1588122010080" />
+    <state x="408" y="193" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1588040878306">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="408" y="193" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1440.900@0.0.1440.900" timestamp="1588040878306" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1588242396016">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1588242396016" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1588125692515" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1588242396014">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1588242396014" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1588125692512" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1588242396014">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1588242396014" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1588125692511" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1588242396015">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1588242396015" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1588125692513" />
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1588049829895">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1588049829895" />
+    <state width="1398" height="303" key="GridCell.Tab.1.center" timestamp="1588049829894">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1588049829894" />
+    <state width="1398" height="303" key="GridCell.Tab.1.left" timestamp="1588049829893">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1588049829893" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right" timestamp="1588049829894">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1588049829894" />
+    <state x="221" y="89" key="SettingsEditor" timestamp="1588040964002">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1588040964002" />
+    <state x="397" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1588328911469">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="397" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1588328911469" />
+    <state x="378" y="212" width="683" height="476" key="find.popup" timestamp="1588041270647">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="378" y="212" width="683" height="476" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1588041270647" />
+  </component>
+</project>
